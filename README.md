@@ -1,4 +1,4 @@
-# day-scheduler
+# Work Day Schedule
 
 ## Intro
 

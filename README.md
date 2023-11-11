@@ -27,5 +27,8 @@ This simple application was great for getting to learn different ways of using t
 
 ## Screenshot of live page
 
+![Alt text](screencapture-zjw1239-github-io-day-scheduler-2023-11-11-16_17_21.png)
 
 ## Link to launched site
+
+https://zjw1239.github.io/day-scheduler/
